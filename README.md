@@ -23,7 +23,7 @@ Running the script regenerates 100% of the results presented in the manuscript, 
 - Tables (descriptive statistics, normality tests, Kruskal–Wallis, Dunn post hoc)
 
 ## Citation
-**Hechavarría-Hernández, J.R. (2025). Neutrosophic XAI Simulation Code Supporting the Framework for Modeling Uncertainty in Stereotactic Simulation. Zenodo. https://doi.org/10.5281/zenodo.17904989**
+**Hechavarría-Hernández, J.R. (2025). Neutrosophic XAI Simulation Code Supporting the Framework for Modeling Uncertainty in Stereotactic Simulation. Zenodo. https://doi.org/10.5281/zenodo.17905071**
 
 ## License
 Code: MIT  
